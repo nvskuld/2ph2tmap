@@ -90,7 +90,7 @@
       crossorigin="anonymous"
     ></script>
 
- 
+	<script src="playersData.js"></script>
 
     <div id="map"></div>
     <script>
@@ -409,7 +409,7 @@ config = {"factor":65536.0,"globalMinZoom":9,"globalMaxZoom":20,"tileSize":512,"
             var style = new ol.style.Style({
                 text: new ol.style.Text({
                     text: player.name + "\n\uf041", // map-marker
-                    font: "900 18px 'Font Awesome 5 Free'",
+                    font: "900 18px 'Times New Roman'",
                     textBaseline: "bottom",
                     fill: new ol.style.Fill({color: player.color}),
                     stroke: new ol.style.Stroke({color: "white", width: 2})
