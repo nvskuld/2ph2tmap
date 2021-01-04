@@ -6,219 +6,219 @@ var playersData = {
   "players": [
     {
       "uuid": "028d9f89-c83a-4555-90fd-2a1068e17e11",
-      "name": "Player 028d9",
+      "name": "Amped Outpost",
       "dimensionId": 0,
       "position": [
-        2294.2346,
+        550,
         68.18251,
-        66.7
+        330
       ],
-      "color": "Teal",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "0307d84f-ac9f-42e2-8b76-e0852a08a764",
-      "name": "Player 0307d",
+      "name": "Pipe Mountains",
       "dimensionId": 0,
       "position": [
-        -76.006546,
+        -500,
         65.62001,
-        -2298.6145
+        -50
       ],
-      "color": "DarkRed",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "0b72f171-2164-4bf3-8cf4-26866e90ee2f",
-      "name": "Player 0b72f",
+      "name": "Roby x Hawk",
       "dimensionId": 0,
       "position": [
-        -158.18694,
+        1000,
         65.62001,
-        -181.72348
+        1000
       ],
-      "color": "DarkRed",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "154ca5cb-17dd-440b-b356-b5f5219fa5e5",
-      "name": "The Spawn Island",
+      "name": "The Spawn",
       "dimensionId": 0,
       "position": [
-        372,
-        70.62001,
-        0
+        123,
+        106,
+        41
       ],
-      "color": "DarkBlue",
+      "color": "Gold",
       "visible": true
     },
     {
       "uuid": "161bd6bf-3fd4-4158-b9ea-1843e55dc1e0",
-      "name": "Player 161bd",
+      "name": "Joe",
       "dimensionId": 0,
       "position": [
-        63.613937,
+        1260,
         67.62001,
-        -244.53334
+        1000
       ],
-      "color": "DarkOrange",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "1c3a68b3-0239-4cc6-ab73-1b3486845099",
-      "name": "Player 1c3a6",
+      "name": "Intrepido Outpost x Village",
       "dimensionId": 0,
       "position": [
-        7.236392,
+        -5944,
         66.62001,
-        -371.93402
+        -5926
       ],
-      "color": "Gold",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "269b315c-6cd7-45c1-b756-61f14e9d3eee",
-      "name": "Player 269b3",
+      "name": "Efan",
       "dimensionId": 1,
       "position": [
-        -41.35994,
+        -1880,
         119.62001,
-        -3.4266882
+        -1930
       ],
-      "color": "DarkOrange",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "304eefb8-e65f-47d0-957a-0fe2d52ed9be",
-      "name": "Player 304ee",
+      "name": "Felix",
       "dimensionId": 0,
       "position": [
-        4742.6606,
+        -2072,
         67.62001,
-        363.66742
+        1341
       ],
-      "color": "DarkOrange",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "34528889-cb8e-442c-9907-1117fe6ce847",
-      "name": "Player 34528",
+      "name": "Kat",
       "dimensionId": 0,
       "position": [
-        937.995,
+        933,
         69.62001,
-        -168.33499
+        655
       ],
-      "color": "Gold",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "359f4718-c05f-41d6-afe8-5a6df07eb668",
-      "name": "Player 359f4",
+      "name": "Heski",
       "dimensionId": 0,
       "position": [
-        -11.008841,
+        50,
         73.62001,
-        -1120.3961
+        450
       ],
-      "color": "Gold",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "3ef9611d-f35d-4579-ab67-16c6f7fce15a",
-      "name": "Player 3ef96",
+      "name": "Elite",
       "dimensionId": 0,
       "position": [
-        455.95,
+        850,
         135.62001,
-        -1495.925
+        2850
       ],
-      "color": "DeepPink",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "45af1ba1-6bce-43df-a354-59f782cea00a",
-      "name": "Player 45af1",
+      "name": "Primo",
       "dimensionId": 0,
       "position": [
-        4660.7,
+        -697,
         70.62001,
-        556.4601
+        -765
       ],
-      "color": "DarkOrange",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "4c885fbc-aeb7-4f3a-8bcd-88ea0690ecfc",
-      "name": "Player 4c885",
+      "name": "Noah Temple",
       "dimensionId": 0,
       "position": [
-        98.39311,
+        -1167,
         63.986618,
-        199.77867
+        -759
       ],
-      "color": "DarkBlue",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "5754422d-5172-4232-8db2-8bb1da3c9fa4",
-      "name": "Player 57544",
+      "name": "Noah x Kalavera",
       "dimensionId": 0,
       "position": [
-        16.327642,
+        -889,
         73.62001,
-        -291.6144
+        -1260
       ],
-      "color": "Gold",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "6f194312-1e32-46b6-898b-37604999f78a",
-      "name": "Player 6f194",
+      "name": "Crypto",
       "dimensionId": 0,
       "position": [
-        1779.9064,
+        1382,
         64.62001,
-        3363.5747
+        640
       ],
-      "color": "DarkOrange",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "70b901c7-5325-4d8f-b583-fec12918ad4d",
-      "name": "Player 70b90",
+      "name": "Felix Outpost x Village",
       "dimensionId": 0,
       "position": [
-        156.68193,
+        1300,
         70.62001,
-        1783.8708
+        3200
       ],
-      "color": "DarkBlue",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "77286970-2d90-4c79-9e89-de7d69b846d7",
-      "name": "Player 77286",
+      "name": "Public Sugarcane x Pumpkin Farm",
       "dimensionId": 0,
       "position": [
-        60.95476,
+        -150,
         74.62001,
-        -1267.3
+        -150
       ],
-      "color": "DeepPink",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "77bdcd0f-cb87-4726-aea1-f15cd16150f0",
-      "name": "Player 77bdc",
+      "name": "Chaotic Wool Store",
       "dimensionId": 0,
       "position": [
-        358.5,
+        353,
         87.18251,
-        1588.5
+        1240
       ],
-      "color": "Gold",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "78c08b64-da6e-4759-af66-d3269679584d",
@@ -253,7 +253,7 @@ var playersData = {
         85.62001,
         -280.87354
       ],
-      "color": "DarkGreen",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -277,7 +277,7 @@ var playersData = {
         39.62001,
         10873.501
       ],
-      "color": "Gold",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -289,7 +289,7 @@ var playersData = {
         78.62001,
         -369.98932
       ],
-      "color": "DarkRed",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -325,7 +325,7 @@ var playersData = {
         70.68251,
         -1278.5
       ],
-      "color": "DarkOrange",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -349,7 +349,7 @@ var playersData = {
         79.62001,
         -350.631
       ],
-      "color": "Gold",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -373,7 +373,7 @@ var playersData = {
         68.62001,
         4034.6516
       ],
-      "color": "DarkBlue",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -421,7 +421,7 @@ var playersData = {
         64.62001,
         -328.76874
       ],
-      "color": "DarkOrange",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -433,7 +433,7 @@ var playersData = {
         75.62001,
         -196.04094
       ],
-      "color": "DarkGreen",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -445,7 +445,7 @@ var playersData = {
         40.62001,
         4922.948
       ],
-      "color": "Gold",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -457,7 +457,7 @@ var playersData = {
         60.62001,
         -1229.1727
       ],
-      "color": "DarkOrange",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -481,7 +481,7 @@ var playersData = {
         77.62001,
         1610.7
       ],
-      "color": "DarkOrange",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -505,7 +505,7 @@ var playersData = {
         119.62001,
         -0.38334507
       ],
-      "color": "DarkRed",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -517,7 +517,7 @@ var playersData = {
         119.62001,
         -265.06494
       ],
-      "color": "DarkOrange",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -553,7 +553,7 @@ var playersData = {
         88.62001,
         1710.0144
       ],
-      "color": "DarkRed",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -589,7 +589,7 @@ var playersData = {
         68.62001,
         -267.04416
       ],
-      "color": "DarkOrange",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -601,7 +601,7 @@ var playersData = {
         119.62001,
         -227.89859
       ],
-      "color": "DarkRed",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -625,7 +625,7 @@ var playersData = {
         63.976143,
         -169.18236
       ],
-      "color": "Teal",
+      "color": "LightBlue",
       "visible": false
     },
     {
@@ -633,11 +633,11 @@ var playersData = {
       "name": "The Shopping District",
       "dimensionId": 0,
       "position": [
-        7,
-        64,
-        -323
+        -371,
+        65,
+        -95
       ],
-      "color": "DarkRed",
+      "color": "Gold",
       "visible": true
     },
     {
