@@ -222,27 +222,27 @@ var playersData = {
     },
     {
       "uuid": "78c08b64-da6e-4759-af66-d3269679584d",
-      "name": "Player 78c08",
+      "name": "Gent's Secret Hideout",
       "dimensionId": 0,
       "position": [
-        31.878277,
+        -1423,
         71.62001,
-        -240.68282
+        1405
       ],
-      "color": "SlateGray",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "7abc5eeb-4e9a-445e-8c7d-58336860a2f1",
-      "name": "Player 7abc5",
+      "name": "Roby Megabase",
       "dimensionId": 0,
       "position": [
-        -72.986275,
+        1000,
         77.62001,
-        -290.17947
+        1080
       ],
-      "color": "SlateGray",
-      "visible": false
+      "color": "LightBlue",
+      "visible": true
     },
     {
       "uuid": "7e4fb1b0-0b30-430e-bdf1-7d044f66a358",
